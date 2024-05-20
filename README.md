@@ -14,7 +14,9 @@ A C compiler (e.g., gcc).
 
 # How to Use
 1.Compile the program
+
 2.Run the program
+
 3.Input the required details:
 - Number of states and the states themselves.
 - Size of the input alphabet and the alphabet symbols.
