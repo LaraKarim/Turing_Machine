@@ -47,14 +47,25 @@ Enter initial state: 0
 Enter number of transitions: 3
 
 Enter transitions in the format (currentState currentSymbol nextState nextSymbol action:L OR R OR Y OR N:
+
 0 a 0 # R
+
 0 b 0 # R
+
 0 # 0 # Y
+
 Enter tape: ab#
+
 Enter head position: 0
+
 Step 0: State=0, Head=1, Tape=#b#
+
 Step 1: State=0, Head=2, Tape=###
+
 Step 2: State=0, Head=2, Tape=###
+
 Output Tape: ###
+
 String accepted.
+
 Encoded Turing Machine: 1010101110110010110101110110010111010111011100
