@@ -31,13 +31,21 @@ A C compiler (e.g., gcc).
  - TM to erase string till first #:
  
 Enter number of states: 1
+
 Enter states <one charachter only> : 0
+
 Enter size of input alphabet: 2
+
 Enter input alphabet: ab
+
 Enter size of tape alphabet: 3
+
 Enter tape alphabet: ab#
+
 Enter initial state: 0
+
 Enter number of transitions: 3
+
 Enter transitions in the format (currentState currentSymbol nextState nextSymbol action:L OR R OR Y OR N:
 0 a 0 # R
 0 b 0 # R
